@@ -5,7 +5,7 @@ In this repository, I have created a machine learning model which will detect th
 <p>For demo I have given the dataset which I used in my model to train (downloaded from kaggle: <a href="https://www.kaggle.com/fedesoriano/heart-failure-prediction">Heart Failure
 Prediction Dataset</a>). But you can use any dataset that you like
 </p>
-Just clone this repository using <code>https://github.com/Himesh-29/Heart-Disease-Predictor.git</code>, open jupter notebook and just run all the cells.
+Just clone this repository using <code>https://github.com/Himesh-29/Heart-Failure-Prediction.git</code>, open jupter notebook and just run all the cells.
 
 ### Python package needed:
 <ul>
