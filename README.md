@@ -7,9 +7,7 @@ Prediction Dataset</a>). But you can use any dataset that you like
 </p>
 Just clone this repository using <code>https://github.com/Himesh-29/Heart-Failure-Prediction.git</code>, open jupter notebook and just run all the cells.
 
-### Python package needed:
-<ul>
-  <li>Sklearn (<b>To install, write</b> <code>pip install sklearn</code>)</li>
-  <li>Pandas (<b>To install, write</b> <code>pip install pandas</code>)</li>
-  <li>Numpy (<b>To install, write</b> <code>pip install numpy</code>)</li>
-</ul>
+### Note: Install the required python package using the following command:
+```
+pip install -r requirements.txt
+```
